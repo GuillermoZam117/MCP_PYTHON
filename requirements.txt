@@ -1,0 +1,9 @@
+black
+ruff
+pylint
+mypy
+pytest
+langchain
+llama-index
+openai
+flask
